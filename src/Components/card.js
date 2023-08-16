@@ -3,7 +3,7 @@ import img from "./images/image-qr-code.png";
 export class CompClass extends React.Component {
   render() {
     return (
-      <div className=" h-screen bg-slate-400  shadow-md overflow-hidden font-outfit">
+      <div className=" h-screen bg-backw-0  shadow-md overflow-hidden font-outfit">
         <div className="flex flex-col   border border-white bg-white h-[500px] w-[330px] box-border  mx-auto  my-32  p-4 rounded-lg">
           <div className="">
             <img src={img} alt="qrimage" className="rounded-lg" />

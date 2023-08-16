@@ -7,6 +7,9 @@ module.exports = {
         outfit: ["Outfit", "sans-serif"],
         pop: ["Poppins", "sans-serif"],
       },
+      backgroundColor: {
+        backw: ["hsl(212, 45%, 89%)"],
+      },
     },
   },
   plugins: [],
